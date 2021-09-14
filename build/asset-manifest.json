@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AlejandraValdivia/authentication-rest-api-react/static/css/main.a0adfd3a.chunk.css",
+    "main.js": "/AlejandraValdivia/authentication-rest-api-react/static/js/main.2a575741.chunk.js",
+    "main.js.map": "/AlejandraValdivia/authentication-rest-api-react/static/js/main.2a575741.chunk.js.map",
+    "runtime-main.js": "/AlejandraValdivia/authentication-rest-api-react/static/js/runtime-main.83760e0e.js",
+    "runtime-main.js.map": "/AlejandraValdivia/authentication-rest-api-react/static/js/runtime-main.83760e0e.js.map",
+    "static/js/2.3ed63dcb.chunk.js": "/AlejandraValdivia/authentication-rest-api-react/static/js/2.3ed63dcb.chunk.js",
+    "static/js/2.3ed63dcb.chunk.js.map": "/AlejandraValdivia/authentication-rest-api-react/static/js/2.3ed63dcb.chunk.js.map",
+    "index.html": "/AlejandraValdivia/authentication-rest-api-react/index.html",
+    "static/css/main.a0adfd3a.chunk.css.map": "/AlejandraValdivia/authentication-rest-api-react/static/css/main.a0adfd3a.chunk.css.map",
+    "static/js/2.3ed63dcb.chunk.js.LICENSE.txt": "/AlejandraValdivia/authentication-rest-api-react/static/js/2.3ed63dcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83760e0e.js",
+    "static/js/2.3ed63dcb.chunk.js",
+    "static/css/main.a0adfd3a.chunk.css",
+    "static/js/main.2a575741.chunk.js"
+  ]
+}
